@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[Get the PDF here](../files/ryan_hynes_cv.pdf)
+[Get the PDF here](../files/cv/Ryan_McGinty_Hynes_CV.pdf)
