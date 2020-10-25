@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Ryan Hynes"
   avatar           : "headshot.jpg"
-  bio              : "PhD Student, NBA Hopeful"
+  bio              : "PhD Student at University College Dublin"
   location         : "Dublin"
   employer         :
-  googlescholar    :
+  googlescholar    : "https://scholar.google.com/citations?user=dXRVxZAAAAAJ"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
